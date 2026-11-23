@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="logo-title">
+  <title id="logo-title">Símbolo Contconvicta</title>
+  <defs>
+    <linearGradient id="warm-mark" x1="13" y1="11" x2="53" y2="54" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F2C431"/>
+      <stop offset=".48" stop-color="#E58A25"/>
+      <stop offset="1" stop-color="#C04A91"/>
+    </linearGradient>
+    <linearGradient id="center-mark" x1="26" y1="25" x2="40" y2="39" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F5C641"/>
+      <stop offset="1" stop-color="#E77A27"/>
+    </linearGradient>
+  </defs>
+  <path d="M47.7 14.7A23.7 23.7 0 1 0 47.7 49.3" fill="none" stroke="url(#warm-mark)" stroke-width="6.1" stroke-linecap="round"/>
+  <path d="M42.5 22.2a13.2 13.2 0 1 0 0 19.6" fill="none" stroke="url(#warm-mark)" stroke-width="5.1" stroke-linecap="round"/>
+  <circle cx="32" cy="32" r="6.8" fill="url(#center-mark)"/>
+</svg>
